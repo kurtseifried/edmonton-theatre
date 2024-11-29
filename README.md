@@ -7,7 +7,7 @@ Edmonton boasts a vibrant live performance scene with numerous theaters offering
 
 1. **Northern Alberta Jubilee Auditorium**: A premier venue hosting a range of performances, including musicals, concerts, and ballets.
    - **Event Calendar**: [What's On - Edmonton | Jubilee Auditorium](https://jubileeauditorium.com/edmonton/whats-on)
-   - https://tickets-center.com/search/Northern-Alberta-Jubilee-Auditorium/
+   - 
 
 2. **The Citadel Theatre**: One of Canada's largest and busiest regional theaters, offering a diverse lineup of plays and musicals.
    - **Shows & Events**: [Shows & Events - The Citadel Theatre](https://citadeltheatre.com/shows-events/)
